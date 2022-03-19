@@ -4,7 +4,25 @@
 
 #### 数据集
 
+自行导入
+
 - [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
 - [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
 
-#### 分析报告和代码
+#### 分析程序Jupyter Notebook
+
+- task1_wine-reviews.ipynb
+- task1_oakland-crime-statistics-2011-to-2016.ipynb
+
+#### 导出分析报告PDF
+
+- task1_wine-reviews - Jupyter Notebook.pdf
+- task1_oakland-crime-statistics-2011-to-2016 - Jupyter Notebook.pdf
+
+#### 运行说明
+
+程序中数据集访问目录需自行设置
+
+data/Wine-Reviews/
+
+data/Oakland-Crime-Statistics-2011-to-2016/
